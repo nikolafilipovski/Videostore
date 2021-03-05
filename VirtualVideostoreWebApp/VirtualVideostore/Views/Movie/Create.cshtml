@@ -1,0 +1,70 @@
+﻿@model VirtualVideostore.Entity.Movie
+
+<div class="row">
+    <div class="col-md-12">
+        <div>
+            <h1 class="text-center">Add a movie</h1>
+        </div>
+    </div>
+</div>
+
+<hr />
+
+<form asp-action="Create">
+
+    <div class="row form-group">
+        <div class="col-sm-12 col-md-12">
+            <label asp-for="title">Title</label>
+            <input asp-for="title" type="text" class="form-control" />
+        </div>
+    </div>
+    
+    <div class="row form-group">
+        <div class="col-sm-12 col-md-6">
+            <label asp-for="director">Director</label>
+            <input asp-for="director" type="text" class="form-control" />
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <label asp-for="actor">Actor</label>
+            <input asp-for="actor" type="text" class="form-control" />
+        </div>
+    </div>
+
+    <div class="row form-group">
+        <div class="col-sm-12 col-md-6">
+            <label asp-for="runTime">Runtime</label>
+            <input asp-for="runTime" type="time" class="form-control" />
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <label asp-for="releaseDate">Release date</label>
+            <input asp-for="releaseDate" type="date" class="form-control" />
+        </div>
+    </div>
+
+    <div class="row form-group">
+        <div class="col-sm-12 col-md-6">
+            <label asp-for="genre">Genre</label>
+            <input asp-for="genre" type="text" class="form-control" />
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <label asp-for="rating">Rating</label>
+            <input asp-for="rating" type="text" class="form-control" />
+        </div>
+    </div>
+
+    <div class="row form-group">
+        <div class="col-sm-12 col-md-12">
+            <label asp-for="description">Description</label>
+            <textarea asp-for="description" class="form-control"></textarea>
+        </div>
+    </div>
+
+
+</form>
+
+<hr />
+
+<div>
+    <a asp-action="Index">Back to list</a>
+</div>
+    

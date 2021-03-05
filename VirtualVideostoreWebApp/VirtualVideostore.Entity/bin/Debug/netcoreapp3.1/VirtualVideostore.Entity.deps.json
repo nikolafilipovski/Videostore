@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VirtualVideostore.Entity/1.0.0": {
+        "runtime": {
+          "VirtualVideostore.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VirtualVideostore.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

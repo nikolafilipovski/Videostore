@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualVideostore", "VirtualVideostore\VirtualVideostore.csproj", "{B9EBCFB5-F562-4CC9-BA46-FA94BC1EC7CA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC} = {34459A3F-F5FB-4D80-B6B0-757A51D485DC}
+		{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD} = {C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}
+		{30681870-B7ED-463F-95EC-A67BE8B05916} = {30681870-B7ED-463F-95EC-A67BE8B05916}
+		{6100C5AB-CA2A-4F4B-A04A-1419C877A35A} = {6100C5AB-CA2A-4F4B-A04A-1419C877A35A}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualVideostore.Data", "VirtualVideostore.Data\VirtualVideostore.Data.csproj", "{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC} = {34459A3F-F5FB-4D80-B6B0-757A51D485DC}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualVideostore.Service", "VirtualVideostore.Service\VirtualVideostore.Service.csproj", "{6100C5AB-CA2A-4F4B-A04A-1419C877A35A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC} = {34459A3F-F5FB-4D80-B6B0-757A51D485DC}
+		{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD} = {C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}
+		{30681870-B7ED-463F-95EC-A67BE8B05916} = {30681870-B7ED-463F-95EC-A67BE8B05916}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualVideostore.Repository", "VirtualVideostore.Repository\VirtualVideostore.Repository.csproj", "{30681870-B7ED-463F-95EC-A67BE8B05916}"
+	ProjectSection(ProjectDependencies) = postProject
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC} = {34459A3F-F5FB-4D80-B6B0-757A51D485DC}
+		{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD} = {C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualVideostore.Entity", "VirtualVideostore.Entity\VirtualVideostore.Entity.csproj", "{34459A3F-F5FB-4D80-B6B0-757A51D485DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9EBCFB5-F562-4CC9-BA46-FA94BC1EC7CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9EBCFB5-F562-4CC9-BA46-FA94BC1EC7CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9EBCFB5-F562-4CC9-BA46-FA94BC1EC7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9EBCFB5-F562-4CC9-BA46-FA94BC1EC7CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5ED4B5E-FFBC-479E-A9AB-4DAD9DE269FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6100C5AB-CA2A-4F4B-A04A-1419C877A35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6100C5AB-CA2A-4F4B-A04A-1419C877A35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6100C5AB-CA2A-4F4B-A04A-1419C877A35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6100C5AB-CA2A-4F4B-A04A-1419C877A35A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30681870-B7ED-463F-95EC-A67BE8B05916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30681870-B7ED-463F-95EC-A67BE8B05916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30681870-B7ED-463F-95EC-A67BE8B05916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30681870-B7ED-463F-95EC-A67BE8B05916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34459A3F-F5FB-4D80-B6B0-757A51D485DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7B29C81-C875-457F-B654-FE470304A648}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Service.deps.json
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Service.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Service.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\obj\Debug\netcoreapp3.1\VirtualVideostore.Service.AssemblyInfoInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\obj\Debug\netcoreapp3.1\VirtualVideostore.Service.AssemblyInfo.cs
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\obj\Debug\netcoreapp3.1\VirtualVideostore.Service.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\obj\Debug\netcoreapp3.1\VirtualVideostore.Service.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\obj\Debug\netcoreapp3.1\VirtualVideostore.Service.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Repository.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Repository.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\obj\Debug\netcoreapp3.1\VirtualVideostore.Service.csprojAssemblyReference.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\obj\Debug\netcoreapp3.1\VirtualVideostore.Service.csproj.CopyComplete
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Data.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Data.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Service\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.pdb

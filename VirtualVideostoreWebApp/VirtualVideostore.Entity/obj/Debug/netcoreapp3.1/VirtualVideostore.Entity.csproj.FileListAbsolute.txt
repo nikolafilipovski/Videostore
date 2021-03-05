@@ -1,0 +1,9 @@
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.deps.json
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\obj\Debug\netcoreapp3.1\VirtualVideostore.Entity.AssemblyInfoInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\obj\Debug\netcoreapp3.1\VirtualVideostore.Entity.AssemblyInfo.cs
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\obj\Debug\netcoreapp3.1\VirtualVideostore.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\obj\Debug\netcoreapp3.1\VirtualVideostore.Entity.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\obj\Debug\netcoreapp3.1\VirtualVideostore.Entity.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Entity\obj\Debug\netcoreapp3.1\VirtualVideostore.Entity.csprojAssemblyReference.cache

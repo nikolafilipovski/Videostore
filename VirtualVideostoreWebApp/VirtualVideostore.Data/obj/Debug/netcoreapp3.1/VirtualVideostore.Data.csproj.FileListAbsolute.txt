@@ -1,0 +1,12 @@
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\bin\Debug\netcoreapp3.1\VirtualVideostore.Data.deps.json
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\bin\Debug\netcoreapp3.1\VirtualVideostore.Data.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\bin\Debug\netcoreapp3.1\VirtualVideostore.Data.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\obj\Debug\netcoreapp3.1\VirtualVideostore.Data.csprojAssemblyReference.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\obj\Debug\netcoreapp3.1\VirtualVideostore.Data.AssemblyInfoInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\obj\Debug\netcoreapp3.1\VirtualVideostore.Data.AssemblyInfo.cs
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\obj\Debug\netcoreapp3.1\VirtualVideostore.Data.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\obj\Debug\netcoreapp3.1\VirtualVideostore.Data.csproj.CopyComplete
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\obj\Debug\netcoreapp3.1\VirtualVideostore.Data.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Data\obj\Debug\netcoreapp3.1\VirtualVideostore.Data.pdb

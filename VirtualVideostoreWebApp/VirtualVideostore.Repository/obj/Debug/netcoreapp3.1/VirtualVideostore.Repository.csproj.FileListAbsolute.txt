@@ -1,0 +1,14 @@
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\bin\Debug\netcoreapp3.1\VirtualVideostore.Repository.deps.json
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\bin\Debug\netcoreapp3.1\VirtualVideostore.Repository.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\bin\Debug\netcoreapp3.1\VirtualVideostore.Repository.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\obj\Debug\netcoreapp3.1\VirtualVideostore.Repository.AssemblyInfoInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\obj\Debug\netcoreapp3.1\VirtualVideostore.Repository.AssemblyInfo.cs
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\obj\Debug\netcoreapp3.1\VirtualVideostore.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\obj\Debug\netcoreapp3.1\VirtualVideostore.Repository.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\obj\Debug\netcoreapp3.1\VirtualVideostore.Repository.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\obj\Debug\netcoreapp3.1\VirtualVideostore.Repository.csprojAssemblyReference.cache
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\bin\Debug\netcoreapp3.1\VirtualVideostore.Data.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.dll
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\bin\Debug\netcoreapp3.1\VirtualVideostore.Data.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\bin\Debug\netcoreapp3.1\VirtualVideostore.Entity.pdb
+C:\Users\Matej\Desktop\Code Academy\VirtualVideostore\VirtualVideostoreWebApp\VirtualVideostore.Repository\obj\Debug\netcoreapp3.1\VirtualVideostore.Repository.csproj.CopyComplete
